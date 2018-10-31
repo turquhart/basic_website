@@ -1,0 +1,22 @@
+body {
+	background:url(backgroundboard.jpg);
+	padding-left:15%;
+	padding-right:15%;
+}
+
+li {
+	list-style:none;
+	display:inline-block;
+}
+
+h2 {
+	color: #304C8C;
+	text-align:center;
+	border:solid #FFE6B3;
+}
+
+p {
+	color:black;
+	font-family:calibri, arial, sans-serif;
+}
+
